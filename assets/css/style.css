@@ -22,21 +22,14 @@ footer {
   border-top: 8px solid #4aaaa5;
 }
 
-.main-section {
-  float: left;
-  padding-bottom: 40px;
-  background: #fff;
-  border: 1px solid #ddd;
-}
-
- .letter {
+.letter {
     display: inline-block;
     list-style: none;
     width: 20px;
     margin: 0 5px;
     border-bottom: 1px solid black;
     text-align: center;
-    color: #eee;
+    color: #e9ecef;
 }
 .current-word {
     list-style: none;
