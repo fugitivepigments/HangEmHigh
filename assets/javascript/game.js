@@ -117,6 +117,7 @@
                 }
                 
                 else {
+                    document.getElementById("guessedletters" + lettersGuessed);
                     lettersGuessed += guess;
                     lives--;
                     man.innerHTML = "You have " + lives + " lives remaining";
